@@ -8,6 +8,7 @@
 [![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
 [![Korean](https://img.shields.io/badge/한국어-눌러서_보기-blue)](README_kr.md)
 [![Turkish](https://img.shields.io/badge/Türkçe-Görüntülemek_için_Tıklayın-red)](README_tr.md)
+[![Brazilian Portuguese](https://img.shields.io/badge/Português_Brasileiro-Clique_Para_Visualizar-green)](README_ptbr.md)
 
 </div>
 
