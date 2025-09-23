@@ -14,6 +14,7 @@
 
 > [!NOTE]
 > Apresentamos Nano-consistent-150k — o primeiro conjunto de dados construído usando Nano-Banana que excede 150 mil amostras de alta qualidade, projetado exclusivamente para preservar a identidade humana consistente em cenários de edição diversos e complexos. Uma característica fundamental é sua notável consistência de identidade: para um único retrato, mais de 35 resultados de edição distintos são fornecidos em diversas tarefas e instruções. Ao se ancorar em identidades humanas consistentes, o conjunto de dados permite a construção de dados intercalados que conectam perfeitamente múltiplas tarefas, instruções e modalidades de edição em torno do mesmo indivíduo.
+
 <a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
 <a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
 
@@ -52,7 +53,7 @@ Se você gostou, por favor, ⭐ marque com uma estrela para favoritar!
   - [Caso 8: Desenho à mão controla poses de vários personagens（por @op7418）](#caso-8-desenho-à-mão-controla-poses-de-vários-personagenspor-op7418)
   - [Caso 9: Geração de Imagem Cross-View（por @op7418）](#caso-9-geração-de-imagem-cross-viewpor-op7418)
   - [Caso 10: Adesivos de Personagens Personalizados（por @op7418）](#caso-10-adesivos-de-personagens-personalizadospor-op7418)
-  - [Caso 11: De Anime para Coser Real（por @ZHO\_ZHO\_ZHO）](#caso-11-de-anime-para-coser-realpor-zho_zho_zho)
+  - [Caso 11: De Anime para Caso Real（por @ZHO\_ZHO\_ZHO）](#caso-11-de-anime-para-caso-realpor-zho_zho_zho)
   - [Caso 12: Gerar Design de Personagem（por @ZHO\_ZHO\_ZHO）](#caso-12-gerar-design-de-personagempor-zho_zho_zho)
   - [Caso 13: Arte de Linha Colorida com Paleta de Cores（por @ZHO\_ZHO\_ZHO）](#caso-13-arte-de-linha-colorida-com-paleta-de-corespor-zho_zho_zho)
   - [Caso 14: Infográfico de artigo（por @黄建同学）](#caso-14-infográfico-de-artigopor-黄建同学)
@@ -308,8 +309,8 @@ Converta a foto para uma vista de cima para baixo e marque a localização do fo
 Ajude-me a transformar o personagem em um adesivo com contorno branco semelhante à Figura 2. O personagem precisa ser transformado em um estilo de ilustração para a web e adicionar uma frase curta com contorno branco lúdico descrevendo a Figura 1.
 ```
 
-<!-- Caso 11: De Anime para Coser Real (por @ZHO_ZHO_ZHO) -->
-### Caso 11: [De Anime para Coser Real](https://x.com/ZHO_ZHO_ZHO/status/1960946893971706306)（por [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
+<!-- Caso 11: De Anime para Caso Real (por @ZHO_ZHO_ZHO) -->
+### Caso 11: [De Anime para Caso Real](https://x.com/ZHO_ZHO_ZHO/status/1960946893971706306)（por [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | Entrada | Saída |
 |:---:|:---:|
