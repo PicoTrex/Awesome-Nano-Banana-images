@@ -2747,6 +2747,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ```
 
 <!-- 例 74：图像高清修复（by @op7418） -->
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=PicoTrex_Awesome-Nano-Banana-images) - Follow GitHub developers, see their activity feed, and discover trending repos in your stack.
 ### 例74：[图像高清修复](https://x.com/op7418/status/1960540798573011209)（by [@op7418](https://x.com/op7418)）
 
 |                              输入                              |                              输出                               |
