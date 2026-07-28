@@ -3594,6 +3594,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 感谢以下用户分享的惊艳的作品，大家也可以前往他们的主页了解更多：
 
 - [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)
+- [GPT Image 2 + Nano Banana Pro 中文提示词工作流](https://github.com/tinchak0207/awesome-gpt-image-2-nano-banana-pro-zh-prompts) - 面向中文创作者的 32 条任务模板，逐条保留来源与许可证；可在 [在线体验](https://image.tinchak0207.xyz) 中使用，无需自行配置 API Key。
 - [@tokumin](https://x.com/tokumin)
 - [@bilawalsidhu](https://x.com/bilawalsidhu)
 - [@Zieeett](https://x.com/Zieeett)
