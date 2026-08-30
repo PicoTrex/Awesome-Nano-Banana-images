@@ -869,7 +869,7 @@ Resim 2'deki [cam] efektini Resim 1'deki fotoğrafın üzerine kaplayın
 > [!NOTE]
 > **[köşeli parantez] içindeki metni istenen filtre/malzemeye göre değiştirin**
 
-<!-- Örnek 43: Karakter Yüz Şeklini Kontrol Et (geliştiren @ZHO_ZHO_ZHO) -->
+<!-- Örnek 43: Karakter Yüz Şeklini Kontrol Et  (geliştiren @ZHO_ZHO_ZHO) -->
 ### Örnek 43: [Karakter Yüz Şeklini Kontrol Et](https://x.com/ZHO_ZHO_ZHO/status/1961802767493939632)（geliştiren [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
 
 | Örnek |
@@ -908,14 +908,14 @@ Resim 1'deki karakteri Resim 2'deki aydınlatmaya değiştirin, karanlık alanla
 |:---:|:---:|
 | <img src="images/case45/input.jpg" width="300" alt="Girdi Resmi"> | <img src="images/case45/output.jpg" width="300" alt="Çıktı Sonucu"> |
 
-
+ 
 **Girdi:** Bir referans resmi yüklemeniz gerekir
-
+ 
 **Prompt:**
 
 ```
 Fotoğraftaki kişiyi, izometrik perspektifte sunulan bir LEGO minifigür ambalaj kutusu stiline dönüştürün. Kutuyu "ZHOGUE" başlığıyla etiketleyin. Kutunun içinde, fotoğraftaki kişiye dayalı LEGO minifigürünü, temel eşyalarıyla (makyaj, çanta veya diğer eşyalar gibi) LEGO aksesuarları olarak sergileyin. Kutunun yanında, ayrıca gerçek LEGO minifigürünün kendisini, ambalajsız, gerçekçi ve canlı bir tarzda işlenmiş olarak sergileyin.
-```
+``` 
 
 <!-- Örnek 46: Gundam Model Figürü (geliştiren @ZHO_ZHO_ZHO) -->
 ### Örnek 46: [Gundam Model Figürü](https://x.com/ZHO_ZHO_ZHO/status/1961412823340265509)（geliştiren [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
