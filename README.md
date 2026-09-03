@@ -29,7 +29,7 @@
 
 ## 📰 News
 
-- **2026年09月01日：** 我们发布了 [**Editable-Design**](https://github.com/yejy53/Editable-Design) 数据集
+- **2026年09月01日：** 我们发布了 [**Editable-Design**](https://github.com/yejy53/Editable-Design) ，这是一个可以通过鼠标自由交互的Design设计Skill，兼具Coding Agent与图像生成模型的优势。
 - **2025年12月13日：** 7️⃣ 第七次仓库更新
 - **2025年11月26日：** 6️⃣ 第六次仓库更新
 - **2025年9月24日：** 5️⃣ 第五次仓库更新
